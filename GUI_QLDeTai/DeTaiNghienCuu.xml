@@ -1,0 +1,112 @@
+<DSDeTai>
+  <DeTai>
+    <ChuTri>Nguyen Van An</ChuTri>
+    <Ten>Phan tich du lieu lon</Ten>
+    <Ma>DT001</Ma>
+    <GV>Tran Thi Bich</GV>
+    <BD>2024/09/01</BD>
+    <KT>2025/05/01</KT>
+    <Loai>1</Loai>
+    <ApDung>1</ApDung>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Le Thi Cam</ChuTri>
+    <Ten>Khao sat hanh vi nguoi dung</Ten>
+    <Ma>DT002</Ma>
+    <GV>Pham Van Dung</GV>
+    <BD>2024/10/15</BD>
+    <KT>2025/03/15</KT>
+    <Loai>2</Loai>
+    <SoCauHoi>120</SoCauHoi>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Hoang Minh Hai</ChuTri>
+    <Ten>Ung dung quan ly kho</Ten>
+    <Ma>DT003</Ma>
+    <GV>Vu Ngoc Kien</GV>
+    <BD>2025/01/10</BD>
+    <KT>2025/08/10</KT>
+    <Loai>3</Loai>
+    <Moitruong>Mobile</Moitruong>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Dang Thu Trang</ChuTri>
+    <Ten>Nghien cuu Tri tue nhan tao</Ten>
+    <Ma>DT004</Ma>
+    <GV>Tran Thi Bich</GV>
+    <BD>2024/11/05</BD>
+    <KT>2025/07/05</KT>
+    <Loai>1</Loai>
+    <ApDung>0</ApDung>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Phan Thanh Long</ChuTri>
+    <Ten>He thong goi y san pham</Ten>
+    <Ma>DT005</Ma>
+    <GV>Ly Minh Tuan</GV>
+    <BD>2025/02/20</BD>
+    <KT>2025/09/20</KT>
+    <Loai>3</Loai>
+    <Moitruong>Web</Moitruong>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Vo Thi Mai</ChuTri>
+    <Ten>Tac dong cua Marketing</Ten>
+    <Ma>DT006</Ma>
+    <GV>Pham Van Dung</GV>
+    <BD>2024/12/01</BD>
+    <KT>2025/04/01</KT>
+    <Loai>2</Loai>
+    <SoCauHoi>85</SoCauHoi>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Bui Anh Dung</ChuTri>
+    <Ten>Phan mem ke toan</Ten>
+    <Ma>DT007</Ma>
+    <GV>Vu Ngoc Kien</GV>
+    <BD>2025/03/15</BD>
+    <KT>2025/10/15</KT>
+    <Loai>3</Loai>
+    <Moitruong>Window</Moitruong>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Ho Gia Han</ChuTri>
+    <Ten>Ly thuyet Mang no-ron</Ten>
+    <Ma>DT008</Ma>
+    <GV>Tran Thi Bich</GV>
+    <BD>2024/09/25</BD>
+    <KT>2025/06/25</KT>
+    <Loai>1</Loai>
+    <ApDung>1</ApDung>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Ngo Bao Quoc</ChuTri>
+    <Ten>Phan tich thi truong BDS</Ten>
+    <Ma>DT009</Ma>
+    <GV>Pham Van Dung</GV>
+    <BD>2025/04/01</BD>
+    <KT>2025/11/01</KT>
+    <Loai>2</Loai>
+    <SoCauHoi>150</SoCauHoi>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Duong Minh Khoa</ChuTri>
+    <Ten>Game giao duc cho tre em</Ten>
+    <Ma>DT010</Ma>
+    <GV>Ly Minh Tuan</GV>
+    <BD>2025/05/10</BD>
+    <KT>2025/12/10</KT>
+    <Loai>3</Loai>
+    <Moitruong>Mobile</Moitruong>
+  </DeTai>
+  <DeTai>
+    <ChuTri>Thai Hoa</ChuTri>
+    <Ten>Cong nghe RAID</Ten>
+    <Ma>DT011</Ma>
+    <GV>Khac Diep</GV>
+    <BD>2005/12/06</BD>
+    <KT>2017/08/09</KT>
+    <Loai>1</Loai>
+    <ApDung>1</ApDung>
+  </DeTai>
+</DSDeTai>

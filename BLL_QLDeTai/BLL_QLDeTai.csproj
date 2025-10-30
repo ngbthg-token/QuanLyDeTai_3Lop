@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL_QLDeTai\DAL_QLDeTai.csproj" />
+    <ProjectReference Include="..\DTO_QLDeTai\DTO_QLDeTai.csproj" />
+  </ItemGroup>
+
+</Project>
