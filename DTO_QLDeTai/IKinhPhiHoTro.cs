@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO_QLDeTai
 {
-    internal interface IKinhPhiHoTro
+    public interface IKinhPhiHoTro
     {
         double TinhKinhPhiHoTro();
     }
